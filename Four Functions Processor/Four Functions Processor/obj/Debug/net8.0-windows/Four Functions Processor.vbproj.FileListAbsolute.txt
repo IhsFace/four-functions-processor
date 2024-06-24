@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\bin\Debug\net8.0-windows\Four Functions Processor.exe
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\bin\Debug\net8.0-windows\Four Functions Processor.deps.json
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\bin\Debug\net8.0-windows\Four Functions Processor.runtimeconfig.json
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\bin\Debug\net8.0-windows\Four Functions Processor.dll
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\bin\Debug\net8.0-windows\Four Functions Processor.pdb
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four_Functions_Processor.Form1.resources
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.dll
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\refint\Four Functions Processor.dll
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.pdb
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\Four Functions Processor.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\four-functions-processor\Four Functions Processor\Four Functions Processor\obj\Debug\net8.0-windows\ref\Four Functions Processor.dll
